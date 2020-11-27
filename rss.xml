@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+	<channel>
+		<item>
+			<title>Počinje upis novih članova</title>
+			<description>Onlajn škola jezika LingoTech vrši upis novih članova. Prijavite se što pre i učite u terminu koji vama odgovara!</description>
+			<link>https://lingotech.000webhostapp.com/prijava.html</link>
+		</item>
+		<item>
+			<title>Nemački jezik za medicinske radnike</title>
+			<description>Novo u ponudi! Nemački jezik za medicinske radnike! Prijavite se!</description>
+			<link>https://lingotech.000webhostapp.com/nemacki.html</link>
+		</item>
+		<item>
+			<title>Poslovni engleski</title>
+			<description>Uvodimo časove poslovnog engleskog! Zainteresovani mogu da zakažu besplatni probni čas!</description>
+			<link>https://lingotech.000webhostapp.com/engleski.html</link>
+		</item>
+		<item>
+			<title>Francuski za decu</title>
+			<description>Pripremili smo poseban materijal za učenje francuskog za decu. Prijavite vaše mališane.</description>
+			<link>https://lingotech.000webhostapp.com/francuski.html</link>
+		</item>
+		<item>
+			<title>Priprema za polaganje ispita poznavanja norveškog jezika i kulture - TYPISK NORSK</title>
+			<description>Za sve one koji se sele u Norvešku, idealna prilika za pripremu za polaganje ispita TYPISKO NORSK, koji se polaže u Ambasadi Kraljevine Norveške </description>
+			<link>https://lingotech.000webhostapp.com/norveski.html</link>
+		</item>
+	</channel>
+</rss>
